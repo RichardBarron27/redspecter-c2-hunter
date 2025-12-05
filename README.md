@@ -95,4 +95,7 @@ If this tool (and the wider Red Specter suite) helps you, you can support future
 https://www.buymeacoffee.com/redspecter
 
 💼 PayPal
+https://paypal.me/richardbarron1747
+
+Thank you — your support helps build more defensive and ethical security tools. 🛡️⚡
 
