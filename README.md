@@ -87,13 +87,12 @@ Respect privacy, law, and ethical boundaries.
 **Vigil** — AI-Assisted Co-Development Partner
 
 ---
+❤️ Support Red Specter
 
-## ☕ Support Red Specter
+If this tool (and the wider Red Specter suite) helps you, you can support future development:
 
-If you find this tool useful and want to support future Red Specter development:
+☕ Buy Me A Coffee
+https://www.buymeacoffee.com/redspecter
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/redspecter" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee Button" />
-  </a>
-</p>
+💼 PayPal
+
